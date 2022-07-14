@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/HYBAS22" target="_blank">HYBAS22</a> 
+<h1 align="center">Wow, its a <a href="https://github.com/HYBAS22" target="_blank">HYBAS22</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 ---
@@ -18,25 +18,21 @@
 
 I can't live without writing shitty code. This is part of my life. I mostly write in `Python`, or `C#`. Once I was interested in the `Java` language, but quickly realized that it was not mine
 
+My last project is `python-bot`. This is a project that has survived a lot, only you won't see it :/
+
 ---
 
 ### Things...
 
 <!--START_SECTION:posts-->
-* [Smart (no) telegram bot on Python](https://github.com/HYBAS22/python-bot)
-* [Spaghetti coded discord bot on C#](https://github.com/HYBAS22/discord-bot-csharp)
-* [Probot App or GitHub Action? (Updated)](https:&#x2F;&#x2F;jasonet.co&#x2F;posts&#x2F;probot-app-or-github-action-v2&#x2F;)
-* [Build your own Probot](https:&#x2F;&#x2F;jasonet.co&#x2F;posts&#x2F;build-your-own-probot&#x2F;)
-* [New features of GitHub Actions v2](https:&#x2F;&#x2F;jasonet.co&#x2F;posts&#x2F;new-features-of-github-actions&#x2F;)
-
+* [Spaghetti coded discord bot on C#](https://github.com/HYBAS22/discord-bot-csharp) 👨🏽‍💻
+* [Just site, nothing wrong](https://github.com/HYBAS22/hybik-site) 🤗
 <!--END_SECTION:posts-->
 
 <!--
 **HYBAS22/hybas22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

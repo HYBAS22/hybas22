@@ -25,8 +25,7 @@ My last project is `python-bot`. This is a project that has survived a lot, only
 ### Things...
 
 <!--START_SECTION:posts-->
-* [Spaghetti coded discord bot on C#](https://github.com/HYBAS22/discord-bot-csharp) 👨🏽‍💻
-* [Just site, nothing wrong](https://github.com/HYBAS22/hybik-site) 🤗
+* [You know, it's better not to see projects. Your eyes are not worth it](https://twitter.com/hybas22) 🤗
 <!--END_SECTION:posts-->
 
 <!--

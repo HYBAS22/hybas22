@@ -1,38 +1,76 @@
-<h1 align="center">Wow, its a <a href="https://github.com/HYBAS22" target="_blank">HYBAS22</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<div align="center">
+
+# Привет, я HYBAS22 👋
+
+### Пишу то, что в душу ляжет
+
+[![GitHub followers](https://img.shields.io/github/followers/HYBAS22?label=Follow&style=social)](https://github.com/HYBAS22)
+[![Profile views](https://komarev.com/ghpvc/?username=HYBAS22&color=blueviolet&style=flat-square&label=Profile+views)](https://github.com/HYBAS22)
+
+</div>
 
 ---
 
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) 
+## Обо мне
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
----
-
-### About me
-
-I can't live without writing shitty code. This is part of my life. I mostly write in `Python`, or `C#`.
+- 🛠️ Разрабатываю небольшие утилиты для разных целей
+- 🐍 Пишу в основном на **Python** и **C#**
+- 📌 Открыт к предложениям, issue и pull request'ам
 
 ---
 
-### Things...
+## Стек технологий
 
-<!--START_SECTION:posts-->
-* [You know, it's better not to see projects. Your eyes are not worth it](https://twitter.com/hybas22) 🤗
-<!--END_SECTION:posts-->
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<!--
-**HYBAS22/hybas22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Избранные проекты
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 [yt-dlp-human](https://github.com/HYBAS22/yt-dlp-human)
+Преобразует человеческие запросы («скачай видео с ютуба в 1080p») в готовые команды `yt-dlp`.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![License](https://img.shields.io/github/license/HYBAS22/yt-dlp-human?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 📥 [universal-video-downloader](https://github.com/HYBAS22/universal-video-downloader)
+Универсальный загрузчик видео с разных платформ в едином интерфейсе.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![License](https://img.shields.io/github/license/HYBAS22/universal-video-downloader?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🗜️ [Hyba-Video-Compressor](https://github.com/HYBAS22/Hyba-Video-Compressor)
+Программа для сжатия медиафайлов: уменьшает размер видео и аудио с сохранением приемлемого качества.
+
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Stars](https://img.shields.io/github/stars/HYBAS22/Hyba-Video-Compressor?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ [kaspersky-trial-reset](https://github.com/HYBAS22/kaspersky-trial-reset)
+Утилита, удаляющая определённые разделы реестра для повторной установки пробной версии Kaspersky.
+
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Stars](https://img.shields.io/github/stars/HYBAS22/kaspersky-trial-reset?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+---

@@ -5,7 +5,6 @@
 ### Пишу то, что в душу ляжет
 
 [![GitHub followers](https://img.shields.io/github/followers/HYBAS22?label=Follow&style=social)](https://github.com/HYBAS22)
-[![Profile views](https://komarev.com/ghpvc/?username=HYBAS22&color=blueviolet&style=flat-square&label=Profile+views)](https://github.com/HYBAS22)
 
 </div>
 
@@ -66,8 +65,8 @@
 ### 💻 [ninah-save-editor-v2](https://github.com/HYBAS22/ninah-save-editor-v2)
 Многофункциональный и простой редактор сохранений для игры "No, I'm not a Human".
 
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![Stars](https://img.shields.io/github/stars/HYBAS22/kaspersky-trial-reset?style=flat-square)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![License](https://img.shields.io/github/license/HYBAS22/ninah-save-editor-v2?style=flat-square)
 
 </td>
 </tr>

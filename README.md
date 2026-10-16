@@ -63,8 +63,8 @@
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ [kaspersky-trial-reset](https://github.com/HYBAS22/kaspersky-trial-reset)
-Утилита, удаляющая определённые разделы реестра для повторной установки пробной версии Kaspersky.
+### 💻 [ninah-save-editor-v2](https://github.com/HYBAS22/ninah-save-editor-v2)
+Многофункциональный и простой редактор сохранений для игры "No, I'm not a Human".
 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/HYBAS22/kaspersky-trial-reset?style=flat-square)
